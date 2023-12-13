@@ -14,3 +14,22 @@ Using a [Muse 2 device (EEG device)]([url](https://mind-monitor.com/)) and its d
 
 ![Team 11 Presentation (4)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/2a735116-c99a-454b-9f87-e3d5011bc746)
 
+![Team 11 Presentation (5)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/8d8871cf-e596-409f-bc29-e1e24b89bd0b)
+
+![Team 11 Presentation (6)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/190d8a2f-659b-4c99-8eb0-5e820364ed81)
+
+![Team 11 Presentation (7)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/5fead45e-cf1e-4be4-965d-a7dca0d32511)
+
+![Team 11 Presentation (8)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/83617a91-dc9b-4095-9aeb-1f95e13b0c90)
+
+![Team 11 Presentation (9)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/00ae582b-0b24-44d5-b91d-aaca30d067a2)
+
+![Team 11 Presentation (10)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/ba00abe3-5aed-4852-9685-243b8c462c09)
+
+![Team 11 Presentation (11)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/29f80e45-856e-41ea-8e06-e86525a790b5)
+
+![Team 11 Presentation (12)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/061f784d-ea53-4c63-804f-33f7b9b473cf)
+
+![Team 11 Presentation (13)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/e4497474-0c1c-4a77-b89a-d271bf2f73cf)
+
+![Team 11 Presentation (14)](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/8adf0b36-f081-4997-a7c2-9671c389157b)
