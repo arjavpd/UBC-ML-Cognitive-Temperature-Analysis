@@ -1,7 +1,7 @@
 # UBC-ML-Cognitive-Temperature-Analysis
 Project studying the effects of ambient temperature on cognitive function. 
 
-Using a [Muse 2 device (EEG device)]([url](https://mind-monitor.com/)) and its data collection software, data was captured from various UBC students and subjected to cognitive function tests. The students performed these tests in either cold (9 degrees Celsius) or normal (22 degrees Celsius) temmperatures. This data was then cleaned, preprocessed and fed into multiple machine learning models. Accuracies were calculated and tabulated with the highest being XGBoost with 88%.
+Using a [Muse 2 device (EEG device)]([url](https://mind-monitor.com/)) and its data collection software, data was captured from various UBC students and subjected to cognitive function tests. The students performed these tests in either cold (9 degrees Celsius) or normal (22 degrees Celsius) temperatures. This data was then cleaned, preprocessed and fed into multiple machine learning models. Accuracies were calculated and tabulated with the highest being XGBoost with 88%.
 
 [Project Report .pdf](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/files/13666318/MANU.465.Project.Report.pdf)
 
