@@ -7,7 +7,7 @@ Using a [Muse 2 device (EEG device)]([url](https://mind-monitor.com/)) and its d
 
 ![Team 11 Presentation Slide 1](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/0c1b413d-351c-43b2-8e67-27765a091fcc)
 
-![Team 11 Presentation Slide 2](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/f4f1a45e-6cca-404f-a2f1-b2a5ae88c5a0)
+![Team 11 Presentation Slide 2](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/7a7c68f8-9e01-4284-bea9-3e49de981468)
 
 ![Team 11 Presentation Slide 3](https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis/assets/12415573/3d0e6cf7-c0bd-434c-97cb-d6fc8c25a15a)
 
